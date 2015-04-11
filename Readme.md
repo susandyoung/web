@@ -27,10 +27,26 @@ hexo server
 hexo new "{TITLE}"
 ```
 
+**Adding the new post to source control**
+
+```
+git add .
+git commit -m 'Your message'
+git push origin master
+```
+
+Note: If your Git commit message has single quotes in it, you'll want to use double quotes to enclose the message (otherwise, you'll terminate the message before you intend to).
+
 **Deploying to your hosting provider***
 
 ```
-hexo deploy
+hexo generate --deploy
+```
+
+**Updating your local copy of the blog after changes have been pushed to GitHub by someone else**
+
+```
+git pull origin master
 ```
 
 ## License
