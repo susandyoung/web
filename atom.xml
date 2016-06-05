@@ -1,84 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Susan Young]]></title>
+  <title>Susan Young</title>
   
   <link href="/atom.xml" rel="self"/>
+  
   <link href="http://susandyoung.com/"/>
   <updated>2016-06-05T19:12:48.000Z</updated>
   <id>http://susandyoung.com/</id>
   
   <author>
-    <name><![CDATA[Susan Young]]></name>
+    <name>Susan Young</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[I Was a Terrible Person]]></title>
+    <title>I Was a Terrible Person</title>
     <link href="http://susandyoung.com/blog/terrible-person/"/>
     <id>http://susandyoung.com/blog/terrible-person/</id>
     <published>2016-06-05T19:15:28.000Z</published>
     <updated>2016-06-05T19:12:48.000Z</updated>
-    <content type="html"><![CDATA[<p>I was six years old. Like all the other kids at my school, I played on the playground during recess. The thought nagged in the back of my mind that there might be other kids who didn’t know Jesus. I should tell them. That’s what they told me in Sunday School. That’s what they told me in Vacation Bible School. It was my job. I should talk to them. But I didn’t. I was a terrible person. They might go to hell because I didn’t speak up. The guilt followed me around the playground on a daily basis. Was I these kids’ last chance? Was I damning them all by my silence? I just couldn’t do it. I played harder and distracted myself and then recess was over and I could retreat into the safety of a history textbook.</p>
-<p>But what would happen if I did say something? They might go to church. I’m not sure how they wouldn’t have gotten there because our church didn’t have one of those vans that picked kids up like I’d heard about, but they’d get there somehow. Then they would get saved. Then they’d be the only Christian in their horrible abusive home where their father drank and hit them and it would make their father mad, but they’d keep telling their family about Jesus until they all got saved. I had heard the story a hundred times, but I still didn’t say a word. Because I was a terrible person.</p>
-<p>Years passed, my family homeschooled, I turned 13 and we were surrounded by families who seemed more Christian than me. The burden should have been gone. I didn’t have to think about if the girl in the ankle length skirt knew Jesus. She probably wondered if I did when I showed up to hang out with the group in jeans and a Tweety Bird tee. Yet why was this guilt still following me? I pushed forward to the alter at a conference and fell to my knees crying and praying in my shame over my cowardice. I should be finding someone to save. Lost people were everywhere, weren’t they? I should be finding them! But I was a terrible person, and I didn’t try.</p>
-<p>Instead I hung out with my friends, studied, and listened to Christian rock that talked about everything but witnessing. I donned my WWJD necklace, bracelet, and anklet in the hopes that someone would see them and ask opening the door for the conversation I felt I should be having, but couldn’t quite come to on my own. It never happened. Everyone knew what they meant by the time I owned them.</p>
-<p>What would have happened if I said something? I could have been ridiculed by my peers and ostracized from social settings and that would be amazing because persecution meant blessings to come. But I was a terrible person and chose my own feeling of safety over the mission I’d been given since before I could remember.</p>
-<p>More years flew by and I became an adult. Other worries pushed the guilt to the back of my mind until I went to a two week evangelical leadership training conference. The mission was laid before me again only this time, you must risk your life. Unless you were out on the streets talking to anyone who would listen or picking up random strangers from the side of the road and proselytizing to them in the confines of your car, then you failed in your mission. There was a chance it would make someone angry and they would pull out a knife or a gun and threaten or even kill you, but that was wonderful! That would make you a martyr and then imagine the reward!</p>
-<p>Then we were presented a choice - pile into a bus and go downtown and start spreading the word, or pile into another bus and go exploring in a cave. I was a terrible person. I explored the cave. The guilt tried to follow me, but concerns about fitting through tight spaces and staying with the group kept it at bay.</p>
-<p>In the weeks and months that followed it caught up with me and twice I picked up a stranger from the side of the road who had run out of gas. I drove them to a gas station, bought soft drinks, in one case bought their gas, and took them back to their cars. Yet, I still couldn’t cross that final line and talk to them about salvation while they were my captive audience in my car. I let them leave thinking I had helped them with no ulterior motive. The guilt followed me home, not because I had an ulterior motive, but because I had failed to follow through on it.</p>
-<p>More years have passed. The guilt doesn’t follow me any more, but I stopped bringing religion with me as well. Sometimes my doorbell rings and I see a group of people huddled out there in their Sunday clothes with bibles ready to save my soul. I walk away and pretend I’m not home. They probably think I’m a terrible person. Only now that doesn’t bother me.</p>
-]]></content>
+    
+    <content type="html">&lt;p&gt;I was six years old. Like all the other kids at my school, I played on the playground during recess. The thought nagged in the back of my mind that there might be other kids who didn’t know Jesus. I should tell them. That’s what they told me in Sunday School. That’s what they told me in Vacation Bible School. It was my job. I should talk to them. But I didn’t. I was a terrible person. They might go to hell because I didn’t speak up. The guilt followed me around the playground on a daily basis. Was I these kids’ last chance? Was I damning them all by my silence? I just couldn’t do it. I played harder and distracted myself and then recess was over and I could retreat into the safety of a history textbook.&lt;/p&gt;
+&lt;p&gt;But what would happen if I did say something? They might go to church. I’m not sure how they wouldn’t have gotten there because our church didn’t have one of those vans that picked kids up like I’d heard about, but they’d get there somehow. Then they would get saved. Then they’d be the only Christian in their horrible abusive home where their father drank and hit them and it would make their father mad, but they’d keep telling their family about Jesus until they all got saved. I had heard the story a hundred times, but I still didn’t say a word. Because I was a terrible person.&lt;/p&gt;
+&lt;p&gt;Years passed, my family homeschooled, I turned 13 and we were surrounded by families who seemed more Christian than me. The burden should have been gone. I didn’t have to think about if the girl in the ankle length skirt knew Jesus. She probably wondered if I did when I showed up to hang out with the group in jeans and a Tweety Bird tee. Yet why was this guilt still following me? I pushed forward to the alter at a conference and fell to my knees crying and praying in my shame over my cowardice. I should be finding someone to save. Lost people were everywhere, weren’t they? I should be finding them! But I was a terrible person, and I didn’t try.&lt;/p&gt;
+&lt;p&gt;Instead I hung out with my friends, studied, and listened to Christian rock that talked about everything but witnessing. I donned my WWJD necklace, bracelet, and anklet in the hopes that someone would see them and ask opening the door for the conversation I felt I should be having, but couldn’t quite come to on my own. It never happened. Everyone knew what they meant by the time I owned them.&lt;/p&gt;
+&lt;p&gt;What would have happened if I said something? I could have been ridiculed by my peers and ostracized from social settings and that would be amazing because persecution meant blessings to come. But I was a terrible person and chose my own feeling of safety over the mission I’d been given since before I could remember.&lt;/p&gt;
+&lt;p&gt;More years flew by and I became an adult. Other worries pushed the guilt to the back of my mind until I went to a two week evangelical leadership training conference. The mission was laid before me again only this time, you must risk your life. Unless you were out on the streets talking to anyone who would listen or picking up random strangers from the side of the road and proselytizing to them in the confines of your car, then you failed in your mission. There was a chance it would make someone angry and they would pull out a knife or a gun and threaten or even kill you, but that was wonderful! That would make you a martyr and then imagine the reward!&lt;/p&gt;
+&lt;p&gt;Then we were presented a choice - pile into a bus and go downtown and start spreading the word, or pile into another bus and go exploring in a cave. I was a terrible person. I explored the cave. The guilt tried to follow me, but concerns about fitting through tight spaces and staying with the group kept it at bay.&lt;/p&gt;
+&lt;p&gt;In the weeks and months that followed it caught up with me and twice I picked up a stranger from the side of the road who had run out of gas. I drove them to a gas station, bought soft drinks, in one case bought their gas, and took them back to their cars. Yet, I still couldn’t cross that final line and talk to them about salvation while they were my captive audience in my car. I let them leave thinking I had helped them with no ulterior motive. The guilt followed me home, not because I had an ulterior motive, but because I had failed to follow through on it.&lt;/p&gt;
+&lt;p&gt;More years have passed. The guilt doesn’t follow me any more, but I stopped bringing religion with me as well. Sometimes my doorbell rings and I see a group of people huddled out there in their Sunday clothes with bibles ready to save my soul. I walk away and pretend I’m not home. They probably think I’m a terrible person. Only now that doesn’t bother me.&lt;/p&gt;
+</content>
+    
     <summary type="html">
-    <![CDATA[<p>I was six years old. Like all the other kids at my school, I played on the playground during recess. The thought nagged in the back of my]]>
+    
+      &lt;p&gt;I was six years old. Like all the other kids at my school, I played on the playground during recess. The thought nagged in the back of my
+    
     </summary>
+    
     
   </entry>
   
   <entry>
-    <title><![CDATA[Why I can't do church]]></title>
+    <title>Why I can&#39;t do church</title>
     <link href="http://susandyoung.com/blog/why-i-cant-do-church/"/>
     <id>http://susandyoung.com/blog/why-i-cant-do-church/</id>
     <published>2015-04-10T21:15:28.000Z</published>
     <updated>2016-06-05T19:18:36.000Z</updated>
-    <content type="html"><![CDATA[<p>I can’t do church any more. Any contact with church is triggering to a degree that it can take hours or even days to recover. Even if I were still a believer I don’t think I could do church any more.</p>
-<p>I’m no longer a Christian and haven’t been for a while. In the summer of 2013, I had already left my last church due to some crazy drama I won’t get in to right now, but it was very difficult. It was the first church I had ever been to where I felt like I could really question everything and where I could accept myself for who I am and not have to fit into some mold. I volunteered, sang in the band, and had loved going.</p>
-<p>Still, I kept going to my small group. They were like my family and it was the first time in my life I felt like I had a close group of local friends. Even after I stopped believing, I kept going to spend time with them every week. They knew I didn’t believe and still accepted me and were open to hearing my perspective.</p>
-<p>In November 2013 I lost my first child to a miscarriage. They prayed for me (which I can’t even stand any more, but still didn’t mind so much then), hugged me, sent me a card, and spent time with me. A couple of folks brought meals while I was going through all the body trauma that comes with it and they weren’t even from my group, but had been my friends at the church and still cared.</p>
-<p>I kept going to group for nearly another year. In October of last year, I lost my second child to another miscarriage. I didn’t go to group after that because the religious stuff was too triggering after two traumatic losses, but I did tell people what had happened. No one said a thing to me except “I’m sorry” on Facebook. The people from the group didn’t even do that. Not a single one of them even acknowledged that I had lost my baby. No cards, visits, or meals. It’s not so much the food or stuff; it’s about knowing that someone even gave a damn. I got flowers delivered from a coworker and she’s the only one who did anything at all.</p>
-<p>I couldn’t go back to the group after that. Finally, a few weeks ago I sent an email to one of the leaders just hoping for some insight and got a bunch of non-answers back and even claims that people had said they visited or sent a card. He later backpedaled on those claims when I told him none of that actually happened.</p>
-<p>I recently stepped into that church for a friend. At the time, I didn’t realize it would be as hard as it was. So many people came to us and gave us hugs and said how good it was to see us. If it’s so good, I exist outside of church. There were ways to see me before now. Many of them have been invited to parties at my home that they never went to, so it’s not like we hadn’t reached out even though we’re the ones grieving the loss of our children.</p>
-<p>During the songs that came up during the service, I refused to sing. I don’t sing songs I don’t believe any more (even though that’s essentially what I was doing my last weeks in the band) and even more importantly I don’t sing for them. Any time I see one of them outside of the church around the neighborhood they always say they miss my voice. It feels like a slap in the face.</p>
-<p>If I’ve learned anything from church, it’s this:</p>
-<ol>
-<li>The Christian love they claim is only for other Christians. </li>
-<li>You’re loved…for what you can give to the church. Not for yourself.</li>
-<li>Some people will be there for you when shit happens unless too much shit happens to you, and then I guess they’re just tired of your shit.</li>
-</ol>
-<p>Going into that church ripped me apart. So many people acted like they cared and I have absolutely no reason to believe any of it. People didn’t make me lose my faith in God, but I wrongly believed in the people who did after leaving my religion.</p>
-]]></content>
+    
+    <content type="html">&lt;p&gt;I can’t do church any more. Any contact with church is triggering to a degree that it can take hours or even days to recover. Even if I were still a believer I don’t think I could do church any more.&lt;/p&gt;
+&lt;p&gt;I’m no longer a Christian and haven’t been for a while. In the summer of 2013, I had already left my last church due to some crazy drama I won’t get in to right now, but it was very difficult. It was the first church I had ever been to where I felt like I could really question everything and where I could accept myself for who I am and not have to fit into some mold. I volunteered, sang in the band, and had loved going.&lt;/p&gt;
+&lt;p&gt;Still, I kept going to my small group. They were like my family and it was the first time in my life I felt like I had a close group of local friends. Even after I stopped believing, I kept going to spend time with them every week. They knew I didn’t believe and still accepted me and were open to hearing my perspective.&lt;/p&gt;
+&lt;p&gt;In November 2013 I lost my first child to a miscarriage. They prayed for me (which I can’t even stand any more, but still didn’t mind so much then), hugged me, sent me a card, and spent time with me. A couple of folks brought meals while I was going through all the body trauma that comes with it and they weren’t even from my group, but had been my friends at the church and still cared.&lt;/p&gt;
+&lt;p&gt;I kept going to group for nearly another year. In October of last year, I lost my second child to another miscarriage. I didn’t go to group after that because the religious stuff was too triggering after two traumatic losses, but I did tell people what had happened. No one said a thing to me except “I’m sorry” on Facebook. The people from the group didn’t even do that. Not a single one of them even acknowledged that I had lost my baby. No cards, visits, or meals. It’s not so much the food or stuff; it’s about knowing that someone even gave a damn. I got flowers delivered from a coworker and she’s the only one who did anything at all.&lt;/p&gt;
+&lt;p&gt;I couldn’t go back to the group after that. Finally, a few weeks ago I sent an email to one of the leaders just hoping for some insight and got a bunch of non-answers back and even claims that people had said they visited or sent a card. He later backpedaled on those claims when I told him none of that actually happened.&lt;/p&gt;
+&lt;p&gt;I recently stepped into that church for a friend. At the time, I didn’t realize it would be as hard as it was. So many people came to us and gave us hugs and said how good it was to see us. If it’s so good, I exist outside of church. There were ways to see me before now. Many of them have been invited to parties at my home that they never went to, so it’s not like we hadn’t reached out even though we’re the ones grieving the loss of our children.&lt;/p&gt;
+&lt;p&gt;During the songs that came up during the service, I refused to sing. I don’t sing songs I don’t believe any more (even though that’s essentially what I was doing my last weeks in the band) and even more importantly I don’t sing for them. Any time I see one of them outside of the church around the neighborhood they always say they miss my voice. It feels like a slap in the face.&lt;/p&gt;
+&lt;p&gt;If I’ve learned anything from church, it’s this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The Christian love they claim is only for other Christians. &lt;/li&gt;
+&lt;li&gt;You’re loved…for what you can give to the church. Not for yourself.&lt;/li&gt;
+&lt;li&gt;Some people will be there for you when shit happens unless too much shit happens to you, and then I guess they’re just tired of your shit.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Going into that church ripped me apart. So many people acted like they cared and I have absolutely no reason to believe any of it. People didn’t make me lose my faith in God, but I wrongly believed in the people who did after leaving my religion.&lt;/p&gt;
+</content>
+    
     <summary type="html">
-    <![CDATA[<p>I can’t do church any more. Any contact with church is triggering to a degree that it can take hours or even days to recover. Even if I w]]>
+    
+      &lt;p&gt;I can’t do church any more. Any contact with church is triggering to a degree that it can take hours or even days to recover. Even if I w
+    
     </summary>
+    
     
   </entry>
   
   <entry>
-    <title><![CDATA[Time Mirror]]></title>
+    <title>Time Mirror</title>
     <link href="http://susandyoung.com/blog/Time-Mirror/"/>
     <id>http://susandyoung.com/blog/Time-Mirror/</id>
     <published>2013-03-29T13:18:00.000Z</published>
     <updated>2015-04-10T21:08:46.000Z</updated>
-    <content type="html"><![CDATA[<p>I saw my old self in a teenage girl today. She was getting out of a car with her family and into the wind. You could tell she was very irritated at the breeze as it made a mess out of her formerly perfect hair. Her attempts to keep her tresses down and prevent them from covering her cute headband were comically futile.</p>
-<p>Looking around, there was no one there but her family, myself passing on the sidewalk, and maybe one other pedestrian across the street they showed no signs of recognizing. Why all the fuss? The answer is simple: image. If anyone sees you, the image must be perfect. It doesn’t matter who or where - they all must think you have it together and that you’re flawless. The reasoning is so recognizable because I burdened myself with it at her age and beyond.</p>
-<p>My musings were then interrupted by the sight of my current self reflected back in a shop window. My short hair was nearly perfectly vertical from the wind, but I made no effort to fix it knowing how utterly useless that would be until I was inside.</p>
-<p>I saw myself walking back over the same sidewalk half an hour later with a heavy backpack and a large package of toilet paper hanging from the plastic handles they stick on at Target to make them easier to carry. It wasn’t embarrassing or “uncool”. It said nothing about whether I “had it all together”. It just was. It was toilet paper. We all use it. My hair was once again tossed around by the wind. So was everyone else’s. It was funny to see how little it mattered now.</p>
-<p>Then I came home, wind blown hair, toilet paper and all, to a smiling husband who tells me I’m beautiful, treats me like a queen and who also appreciates that I ran to the store and bought toilet paper.</p>
-]]></content>
+    
+    <content type="html">&lt;p&gt;I saw my old self in a teenage girl today. She was getting out of a car with her family and into the wind. You could tell she was very irritated at the breeze as it made a mess out of her formerly perfect hair. Her attempts to keep her tresses down and prevent them from covering her cute headband were comically futile.&lt;/p&gt;
+&lt;p&gt;Looking around, there was no one there but her family, myself passing on the sidewalk, and maybe one other pedestrian across the street they showed no signs of recognizing. Why all the fuss? The answer is simple: image. If anyone sees you, the image must be perfect. It doesn’t matter who or where - they all must think you have it together and that you’re flawless. The reasoning is so recognizable because I burdened myself with it at her age and beyond.&lt;/p&gt;
+&lt;p&gt;My musings were then interrupted by the sight of my current self reflected back in a shop window. My short hair was nearly perfectly vertical from the wind, but I made no effort to fix it knowing how utterly useless that would be until I was inside.&lt;/p&gt;
+&lt;p&gt;I saw myself walking back over the same sidewalk half an hour later with a heavy backpack and a large package of toilet paper hanging from the plastic handles they stick on at Target to make them easier to carry. It wasn’t embarrassing or “uncool”. It said nothing about whether I “had it all together”. It just was. It was toilet paper. We all use it. My hair was once again tossed around by the wind. So was everyone else’s. It was funny to see how little it mattered now.&lt;/p&gt;
+&lt;p&gt;Then I came home, wind blown hair, toilet paper and all, to a smiling husband who tells me I’m beautiful, treats me like a queen and who also appreciates that I ran to the store and bought toilet paper.&lt;/p&gt;
+</content>
+    
     <summary type="html">
-    <![CDATA[<p>I saw my old self in a teenage girl today. She was getting out of a car with her family and into the wind. You could tell she was very ir]]>
+    
+      &lt;p&gt;I saw my old self in a teenage girl today. She was getting out of a car with her family and into the wind. You could tell she was very ir
+    
     </summary>
+    
     
   </entry>
   
